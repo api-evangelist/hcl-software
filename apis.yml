@@ -1,23 +1,91 @@
 aid: hcl-software
+
 name: HCLSoftware
-description: 'HCLSoftware is a company surfaced via the API Evangelist harvest backlog (source: gartner-mq)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.hcl-software.com/wps/wcm/connect/8016b3f3-45f1-4b0b-b254-19206c7a4e12/hcl-software-logo-1200x630White.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8016b3f3-45f1-4b0b-b254-19206c7a4e12-pTP27gt
+
+description: 'HCLSoftware, part of HCLTech, delivers a broad portfolio of enterprise software solutions spanning AI-driven operations, cybersecurity, data analytics, and low-code development platforms. The company focuses on orchestrating experiences, data, and operations at scale for large organizations, offering products such as HCL BigFix, HCL Cloud, and HCL Volt MX. Through its extensive suite, HCLSoftware enables digital transformation, secure endpoint management, and intelligent automation across industries.'
+
 url: https://raw.githubusercontent.com/api-evangelist/hcl-software/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:gartner-mq
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-03 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-03'
+
 modified: '2026-10-03'
+
 tags:
 - Company
-apis: []
+- Software
+- Enterprise
+- AI
+- Cloud
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Spectral
+  url: rules/hcl-software-rules.yml
+- type: Conformance
+  url: conformance/hcl-software-conformance.yml
+- type: LLMsTxt
+  url: llms/hcl-software-llms.txt
+- type: WellKnown
+  url: well-known/hcl-software-well-known.yml
+- type: Hosts
+  url: hosts/hcl-software-hosts.yml
+- type: Vendors
+  url: vendors/hcl-software-vendors.yml
+- type: TermsOfService
+  url: https://www.hcl-software.com/legal/terms-use
+- type: PrivacyPolicy
+  url: https://www.hcl-software.com/legal/privacy
+- type: DeveloperPortal
+  url: https://www.hcl-software.com/developer
+- type: DomainSecurity
+  url: security/hcl-software-domain-security.yml
 - type: Website
   url: https://www.hcl-software.com
+- type: Documentation
+  url: https://www.hcl-software.com/developers
+- type: Blog
+  url: https://www.hcl-software.com/blog
+- type: Support
+  url: https://www.hcl-software.com/resources/trust-center
+
+apis:
+- aid: hcl-software:hcl-software-api
+  name: HCLSoftware API
+  description: 'HCLSoftware API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-03);
+    not the provider''s own document.'
+  humanURL: https://developer.ds.hcl-software.com/t/sametime-12-0-4-chat-stops-working-after-proxy-container-restart/172814
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/hcl-software-openapi-generated.yml
+    x-provenance: generated
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: Developer portal pages are HTML without downloadable OpenAPI or other machine‑readable contracts.
+  evidence:
+    - url: https://www.hcl-software.com/developer
+      status: 200
+  checked: '2026-10-03'
+x-enrichment:
+  date: '2026-10-03'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

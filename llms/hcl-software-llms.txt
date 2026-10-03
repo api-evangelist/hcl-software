@@ -1,0 +1,170 @@
+# HCLSoftware
+
+> HCLSoftware: Orchestrating eXperience, Data and Operations at Scale
+
+HCLSoftware is the software business division of HCLTech. It develops, markets, sells, and supports enterprise software across six primary areas: Business & Industry Applications, AI & Intelligent Operations, Total Experience, Data & Analytics, Cybersecurity, and Sovereign Collaboration. A separate Specialized Software portfolio addresses focused manufacturing, mainframe, engineering, and secure software delivery use cases.
+
+Core value propositions center on combining intelligent experiences, trusted data, automation, security, and sovereign collaboration. Common use cases include marketing automation, digital commerce, customer data management, endpoint management, application security, workload orchestration, analytics, low-code development, secure collaboration, DevSecOps, CAD/CAM, and mainframe optimization.
+
+## Company Information & Governance
+
+- [HCLSoftware Homepage](https://www.hcl-software.com/): Main entry point for HCLSoftware's enterprise product portfolio, company positioning, customer resources, and contact options.
+- [About HCLSoftware](https://www.hcl-software.com/about): Overview of the software business, its mission, operating model, and relationship to HCLTech.
+- [Leadership Team](https://www.hcl-software.com/about/leadership): Profiles of HCLSoftware's executive and business leadership.
+- [Careers](https://www.hcl-software.com/careers): Information about careers and open opportunities across the HCLSoftware organization.
+- [Analyst Recognitions](https://www.hcl-software.com/resources/analyst-recognitions): Independent analyst evaluations, market reports, and recognitions involving HCLSoftware products.
+- [Newsroom](https://www.hcl-software.com/about/news): Official announcements, product news, company updates, and press materials.
+- [Events](https://www.hcl-software.com/about/events): Upcoming and on-demand webinars, conferences, and product-focused events.
+- [Trust Center](https://www.hcl-software.com/resources/trust-center): Central resource for security, privacy, compliance, and responsible business information.
+- [All Products](https://www.hcl-software.com/products): Alphabetical and portfolio-based directory of HCLSoftware products.
+- [Website Sitemap](https://www.hcl-software.com/sitemap.html): Structured index of major pages across the HCLSoftware website.
+
+## Portfolio Areas
+
+- [Business & Industry Applications](https://www.hcl-software.com/business-industry-applications): Applications for commerce, marketing, customer data, behavioral insight, automation, and aftermarket operations.
+- [AI & Intelligent Operations](https://www.hcl-software.com/ai-intelligent-operations): AI-enabled platforms for automation, service management, employee experience, observability, FinOps, endpoint operations, and workload orchestration.
+- [Cybersecurity](https://www.hcl-software.com/cybersecurity): Application security, endpoint security, compliance, cyber exposure, and automated remediation solutions.
+- [Data & Analytics](https://www.hcl-software.com/data-analytics): Data management, integration, intelligence, analytics, governance, and transactional database technologies.
+- [Total Experience](https://www.hcl-software.com/total-experience): Digital experience, low-code development, customer and employee experience, and platform orchestration capabilities.
+- [Sovereign Collaboration](https://www.hcl-software.com/sovereign-collaboration): Secure collaboration and application platforms designed to support data autonomy, control, and deployment flexibility.
+- [Artificial Intelligence](https://www.hcl-software.com/artificial-intelligence): Overview of HCLSoftware products and capabilities that apply AI across data, operations, development, security, commerce, and experience management.
+- [Complete Product Directory](https://www.hcl-software.com/products): Browse the full portfolio, including specialized and legacy enterprise products not individually listed below.
+
+## Business & Industry Applications
+
+- [HCL Aftermarket Cloud](https://www.hcl-software.com/aftermarket-cloud): Aftermarket-led growth platform for manufacturers, dealers, service providers, parts commerce, and service lifecycle operations.
+- [HCL Commerce+](https://www.hcl-software.com/commerce): Enterprise ecommerce platform for complex B2B and B2C operations, composable commerce, and personalized digital selling.
+- [HCL Customer Data Platform](https://www.hcl-software.com/customer-data-platform): Flexible customer data platform for unifying profiles, segmentation, activation, and personalized engagement.
+- [HCL Discover+](https://www.hcl-software.com/discover-plus): Behavioral analytics and digital experience insight for understanding and improving customer journeys.
+- [HCL Unica+](https://www.hcl-software.com/unica): Enterprise marketing automation platform for planning, executing, personalizing, and analyzing campaigns at scale.
+
+## AI & Intelligent Operations
+
+
+- [HCL UnO+](https://www.hcl-software.com/universal-orchestrator): Automation and orchestration platform for coordinating enterprise workflows and agentic operations.
+
+## HCL BigFix
+- [HCL BigFix](https://www.hcl-software.com/bigfix): AI-powered endpoint management and security platform for discovery, patching, compliance, automation, and remediation.
+- [What Is ITSM? IT Service Management Guide](https://www.hcl-software.com/bigfix/itsm): Educational guide to IT service management covering ITIL 4 frameworks, core ITSM processes, service delivery maturity, AI readiness prerequisites, and building the business case for ITSM investment. 
+- [What Is Autonomous Endpoint Management (AEM)?](https://www.hcl-software.com/bigfix/glossary/what-is-autonomous-endpoint-management): Educational glossary explaining autonomous endpoint management, key benefits, and how AEM differs from traditional endpoint management and UEM.
+- [Autonomous Endpoint Management: The Complete Guide](https://www.hcl-software.com/bigfix/autonomous-endpoint-management): Comprehensive guide to autonomous endpoint management covering AI-driven patching, compliance,endpoint security, and best practices for modern endpoint management.
+- [HCL BigFix AEX](https://www.hcl-software.com/bigfix/products/aex): AI-driven employee experience offering designed to improve support, productivity, and digital workplace interactions.
+- [HCL BigFix Enterprise+](https://www.hcl-software.com/bigfix/offerings/infrastructure-monitoring): Infrastructure monitoring and automation capabilities for visibility, performance, availability, and operational resilience.
+- [HCL BigFix Service Management](https://www.hcl-software.com/bigfix/products/service-management): AI-powered service management platform for IT and enterprise service workflows.
+- [HCL BigFix Workspace+](https://www.hcl-software.com/bigfix/offerings/workspace-management): Digital workspace management and automation for secure, productive employee experiences.
+- [HCL iControl](https://www.hcl-software.com/icontrol): Business flow and process observability solution for tracking operational performance across complex environments.
+- [HCL MyXalytics](https://www.hcl-software.com/my-xalytics): Unified reporting, dashboarding, and cloud financial operations visibility and insights.
+- [HCL Workload Automation](https://www.hcl-software.com/workload-automation): Enterprise workload scheduling and automation for application, data, and business workflows.
+
+## Cybersecurity
+
+- [HCL AppScan](https://www.hcl-software.com/products/appscan): Application security testing portfolio covering cloud and on-premises testing across the software development lifecycle.
+- [HCL BigFix Compliance](https://www.hcl-software.com/bigfix/products/compliance): Continuous endpoint compliance assessment, reporting, and remediation against security policies and benchmarks.
+- [HCL BigFix CyberFOCUS](https://www.hcl-software.com/bigfix/products/cyberfocus): Endpoint security analytics and cyber exposure prioritization for enterprise environments.
+- [HCL BigFix Remediate](https://www.hcl-software.com/bigfix/products/remediate): Automated patch and vulnerability remediation for reducing endpoint risk.
+
+## Data & Analytics
+
+- [HCL Actian](https://www.hcl-software.com/actian): Portfolio overview for data management, analytics, integration, and transactional database technologies.
+- [Actian Data Intelligence Platform](https://www.actian.com/data-intelligence/platform/): Enterprise data intelligence, catalog, governance, lineage, and discovery platform from Actian.
+- [HCL Actian Ingres](https://www.hcl-software.com/actian/ingres-transactional-database): Transactional relational database management system for business-critical applications.
+- [HCL DataConnect](https://www.hcl-software.com/actian/dataconnect): Low-code data integration platform for connecting, transforming, and orchestrating data across systems.
+- [HCL Informix](https://www.hcl-software.com/actian/informix): Enterprise database platform designed for reliable transactional, embedded, edge, and hybrid workloads.
+- [HCL Zen](https://www.hcl-software.com/actian/zen-edge-data-management): Embeddable edge data management platform for distributed applications, devices, and operational environments.
+
+## Total Experience
+
+- [HCL DX](https://www.hcl-software.com/dx): Digital experience platform for creating, managing, and delivering personalized content and services across channels.
+- [HCL Foundry](https://www.hcl-software.com/total-experience): Secure backend services and integration capabilities for digital applications and experiences.
+- [HCL Mosaic](https://www.hcl-software.com/mosaic): Preconfigured enterprise cloud platform for composing and delivering customer and employee experiences.
+- [HCL Volt MX](https://www.hcl-software.com/volt-mx): Enterprise low-code platform for building multiexperience web, mobile, and digital applications.
+- [HCL Customer Data Platform](https://www.hcl-software.com/customer-data-platform): Customer data foundation for identity resolution, segmentation, activation, and personalized experiences.
+
+## Sovereign Collaboration
+
+- [HCL Connections](https://www.hcl-software.com/connections): Enterprise collaboration and knowledge-sharing platform for communities, content, tasks, and teamwork.
+- [HCL Domino](https://www.hcl-software.com/domino): Secure rapid application development platform for building, modernizing, and operating enterprise applications.
+- [HCL Link](https://www.hcl-software.com/link): Integration and transformation technology for connecting applications, data formats, and business ecosystems.
+- [HCL Notes](https://www.hcl-software.com/notes): Enterprise email, application access, and collaboration client for HCL Domino environments.
+- [HCL SafeLinx](https://www.hcl-software.com/safelinx): Secure remote access and connectivity for enterprise applications, mobile users, and distributed environments.
+- [HCL Sametime](https://www.hcl-software.com/sametime): Secure enterprise meetings, video, chat, and real-time communications platform.
+- [HCL Verse](https://www.hcl-software.com/verse): Web-based enterprise email and collaboration experience for productive, secure workflows.
+- [Sovereign Collaboration Overview](https://www.hcl-software.com/sovereign-collaboration): Portfolio entry point for secure collaboration, application development, messaging, and data autonomy.
+
+## Specialized Software
+
+- [HCL DFMPro](https://dfmpro.com/): CAD-integrated design-for-manufacturing analysis for identifying manufacturability issues early in product development.
+- [HCL CAMWorks](https://camworks.com/): Feature-based CAD/CAM software for CNC programming, machining automation, and manufacturing productivity.
+- [HCL Glovius](https://www.glovius.com/): Lightweight CAD viewer and collaboration software for viewing, analyzing, and sharing engineering data.
+- [HCL Mainframe Solutions](https://www.hcl-software.com/mainframe-solutions): Software for optimizing, modernizing, securing, and managing enterprise mainframe investments.
+- [HCL Secure DevOps](https://www.hcl-software.com/secure-devops): Specialized tools for enterprise software planning, development, testing, deployment, and application security.
+- [All Specialized and Enterprise Products](https://www.hcl-software.com/products): Complete directory covering additional DevOps, mainframe, engineering, analytics, and operations products.
+
+## Industry Solutions
+
+- [Industry Solutions Overview](https://www.hcl-software.com/industries): Entry point for industry-focused use cases, products, and customer outcomes.
+- [Banking and Financial Services](https://www.hcl-software.com/industries/banking-and-financial): Software for secure digital banking, data-driven engagement, operations, compliance, and application modernization.
+- [Government](https://www.hcl-software.com/industries/government): Secure and scalable software for digital public services, collaboration, citizen experience, and operational efficiency.
+- [Healthcare](https://www.hcl-software.com/industries/healthcare): Technology for connected care, secure data, digital experiences, collaboration, and healthcare operations.
+- [Insurance](https://www.hcl-software.com/industries/insurance): Software supporting policyholder experience, marketing, data, automation, security, and operational transformation.
+- [Manufacturing](https://www.hcl-software.com/industries/manufacturing): Solutions for commerce, aftermarket operations, engineering, connected manufacturing, data, and supply-chain use cases.
+- [Retail](https://www.hcl-software.com/industries/retail): Software for enterprise commerce, personalization, customer insights, data activation, and digital retail operations.
+
+## Customer Success, Insights & Events
+
+- [Customer Success](https://www.hcl-software.com/customer-success): Programs, guidance, and expertise intended to help customers adopt products and realize value.
+- [Success Stories](https://www.hcl-software.com/resources/stories): Customer case studies and examples of business outcomes achieved with HCLSoftware products.
+- [HCLSoftware Blog](https://www.hcl-software.com/blog): Product insights, technical perspectives, market trends, and company updates.
+- [Newsroom](https://www.hcl-software.com/about/news): Official product announcements, partnerships, recognitions, and corporate news.
+- [Events and Webinars](https://www.hcl-software.com/about/events): Live and on-demand sessions featuring product experts, customers, and industry speakers.
+- [HCLSoftware Tech Trends 2026](https://www.hcl-software.com/resources/sync/tech-trends-2026): Current HCLSoftware research and perspectives on technologies shaping global business.
+- [XDO](https://www.hcl-software.com/xdo-customer-experience-data-operations): HCLSoftware's framing for connecting customer experience, data, and operations.
+- [HCLSoftware Marketplace](https://www.hcl-software.com/marketplace/catalog): Catalog of extensions, integrations, accelerators, and related software assets.
+- [Video Gallery](https://www.hcl-software.com/resources/video-gallery): Product demonstrations, customer discussions, webinars, and thought-leadership videos.
+- [User Groups](https://www.hcl-software.com/user-groups): Communities for customers, practitioners, partners, and product experts to exchange knowledge.
+
+## Learning, Documentation & Support
+
+- [HCLSoftware Support](https://support.hcl-software.com/): Main customer support portal for cases, downloads, fixes, knowledge resources, and product assistance.
+- [HCLSoftware Documentation](https://help.hcl-software.com/): Official product documentation, release information, administration guidance, and technical references.
+- [HCLSoftware U](https://hclsoftwareu.hcl-software.com/): Product education, courses, learning paths, and skills development resources.
+- [My HCLSoftware](https://my.hcl-software.com/): Customer portal for entitlements, downloads, licenses, subscriptions, and account-related services.
+- [Support Community](https://support.hcl-software.com/community): Community discussions, technical questions, product guidance, and peer support.
+- [Digital Solutions Community](https://developer.ds.hcl-software.com/): Developer-focused resources, technical content, examples, and community collaboration.
+- [Product Lifecycle Table](https://www.hcl-software.com/resources/product-release/product-lifecycle-table): Official lifecycle and support-status information for HCLSoftware product releases.
+- [Submit an Idea](https://www.hcl-software.com/resources/submit-idea): Channel for customers and partners to propose product ideas and enhancements.
+- [Client Advocacy](https://www.hcl-software.com/resources/client-advocacy): Customer advocacy and engagement programs for sharing experiences and participating in HCLSoftware initiatives.
+- [License Agreements](https://www.hcl-software.com/resources/license-agreements): Product-specific software license terms and associated legal documents.
+
+## Partner Ecosystem
+
+- [Partner Connect](https://www.hcl-software.com/partner-connect): Main portal for HCLSoftware partner programs, resources, enablement, and collaboration.
+- [Partner Ecosystem](https://www.hcl-software.com/partner-connect/partner-ecosystem): Overview of technology, services, solution, reseller, and implementation partners.
+- [Expert Partners](https://www.hcl-software.com/partner-connect/partner-ecosystem/expert-partner): Certified organizations with demonstrated expertise in HCLSoftware products and solutions.
+- [Partner Locator](https://partnerlocator.hcl-software.com/partners): Search tool for locating HCLSoftware partners by geography, product, and capability.
+- [Global System Integrators](https://www.hcl-software.com/partner-connect/global-system-integrators): Information about HCLSoftware's relationships with global consulting and systems-integration firms.
+
+## Contact, Trust & Legal
+
+- [Contact HCLSoftware](https://www.hcl-software.com/contact-us): Forms and contact routes for sales, product information, demonstrations, and general inquiries.
+- [Trust Center](https://www.hcl-software.com/resources/trust-center): Security, privacy, compliance, assurance, accessibility, and responsible-business resources.
+- [Privacy Statement](https://www.hcl-software.com/legal/privacy): Information about the collection, use, retention, and protection of personal data.
+- [Cookie Disclosure](https://www.hcl-software.com/legal/cookie-disclosure): Details about cookies and related technologies used on HCLSoftware websites.
+- [Accessibility](https://www.hcl-software.com/legal/accessibility): HCLSoftware's website accessibility information and related commitments.
+- [Terms of Use](https://www.hcl-software.com/legal/terms-use): Legal terms governing use of the HCLSoftware website and online content.
+- [Legal Disclaimer](https://www.hcl-software.com/legal/disclaimer): General limitations and disclaimers applying to website information.
+- [Compliance](https://www.hcl-software.com/legal/compliance): Legal and regulatory compliance information relevant to HCLSoftware operations and offerings.
+- [Master Agreements](https://www.hcl-software.com/resources/master-agreements): Standard master terms and commercial agreement resources for HCLSoftware transactions.
+- [License Agreements](https://www.hcl-software.com/resources/license-agreements): Software licensing terms and product-specific agreement documents.
+- [CCPA Statement](https://www.hcl-software.com/legal/ccpa-statement): California privacy disclosures and consumer-rights information.
+- [HCLSoftware Product Disclaimer](https://www.hcl-software.com/legal/hcl-software-disclaimer): Product-related legal notices and qualification of published information.
+
+## Regional Sites
+
+- [French Site](https://www.hcl-software.com/fr/hclsw-home): HCLSoftware content localized for French-speaking audiences.
+- [Italian Site](https://www.hcl-software.com/it/hclsw-home): HCLSoftware content localized for Italian-speaking audiences.
+- [German Site](https://www.hcl-software.com/de/hclsw-home): HCLSoftware content localized for German-speaking audiences.
+- [Portuguese Site](https://www.hcl-software.com/pt/hclsw-home): HCLSoftware content localized for Portuguese-speaking audiences.
+- [Japanese Site](https://www.hcl-software.com/jp/hclsw-home): HCLSoftware content localized for the Japanese market.
+- [Spanish Site](https://www.hcl-software.com/es/hclsw-home): HCLSoftware content localized for Spanish-speaking audiences.
+- [Korean Site](https://www.hcl-software.com/ko/hclsw-home): HCLSoftware content localized for Korean-speaking audiences.

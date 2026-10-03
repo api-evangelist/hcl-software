@@ -1,0 +1,29 @@
+generated: '2026-10-03'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.hcl-software.com/bigfix/products/compliance
+sources:
+- https://www.hcl-software.com/bigfix/products/compliance
+- https://www.hcl-software.com/legal/privacy
+- https://www.hcl-software.com/legal/compliance
+- https://help.hcl-software.com/appscan/Welcome.html
+standards:
+- id: hipaa
+  conforms: true
+  evidence: prebuilt industry-standard benchmarks such as CIS, DISA STIG, NIS2, HIPAA and PCI-DSS V4.0.
+- id: pci-dss
+  conforms: true
+  evidence: prebuilt industry-standard benchmarks such as CIS, DISA STIG, NIS2, HIPAA and PCI-DSS V4.0.
+- id: openapi-3.1
+  conforms: true
+  evidence: the document declares 3.1.0
+- id: oauth2
+  conforms: false
+  evidence: no securitySchemes declared
+- id: rfc9457
+  conforms: false
+  evidence: no response declares application/problem+json
+- id: idempotency
+  conforms: false
+  evidence: no idempotency key parameter on mutating operations
+docs: https://www.hcl-software.com/bigfix/products/compliance

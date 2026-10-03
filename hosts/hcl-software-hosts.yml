@@ -1,0 +1,186 @@
+generated: '2026-10-03'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 15
+  own: 11
+  other_domain: 4
+  platform: 0
+  roles:
+  - api
+  - other
+  - partner
+  - portal
+  - support
+  - website
+hosts:
+- host: api.hcl-software.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: hcl-software.com
+  role: api
+  relation: own
+- host: camworks.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: camworks.com
+  role: other
+  relation: other-domain
+- host: developer.ds.hcl-software.com
+  found_by:
+  - apis[]
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: portal
+  relation: own
+- host: dfmpro.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: dfmpro.com
+  role: other
+  relation: other-domain
+- host: hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: hcl-software.com
+  role: other
+  relation: own
+- host: hclsoftwareu.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: other
+  relation: own
+- host: help.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: support
+  relation: own
+- host: marketplace.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: hcl-software.com
+  role: other
+  relation: own
+- host: my.hcl-software.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: other
+  relation: own
+- host: partnerlocator.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: other
+  relation: own
+- host: partners.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - well-known
+  types: []
+  serves: []
+  status: 200
+  registrable_domain: hcl-software.com
+  role: partner
+  relation: own
+- host: support.hcl-software.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: hcl-software.com
+  role: support
+  relation: own
+- host: www.actian.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: actian.com
+  role: other
+  relation: other-domain
+- host: www.glovius.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: glovius.com
+  role: other
+  relation: other-domain
+- host: www.hcl-software.com
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - DeveloperPortal
+  - Website
+  - Documentation
+  - Blog
+  - Support
+  serves:
+  - docs
+  - cdn
+  vendor: cloudfront
+  registrable_domain: hcl-software.com
+  role: website
+  relation: own
