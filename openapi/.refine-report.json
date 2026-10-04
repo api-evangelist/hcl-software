@@ -1,0 +1,18 @@
+{
+  "provider": "hcl-software",
+  "sources": [
+    "_ae-authored/hcl-software-openapi-generated.yml"
+  ],
+  "outputs": [
+    "hcl-software-stwebapi-api-openapi.yml"
+  ],
+  "archived": [],
+  "errors": [],
+  "warnings": [],
+  "notes": [
+    "sourced from openapi/_original/ (0 archived document(s)); previously refined output at the top level was skipped rather than re-split",
+    "hcl-software-openapi-generated.yml: upgraded openapi 3.1.0 -> OpenAPI 3.2.0",
+    "apis.yml register: written (+1 apis, 1 total)"
+  ],
+  "skipped": []
+}

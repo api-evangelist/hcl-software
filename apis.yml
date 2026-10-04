@@ -65,16 +65,16 @@ common:
   url: https://www.hcl-software.com/resources/trust-center
 
 apis:
-- aid: hcl-software:hcl-software-api
-  name: HCLSoftware API
-  description: 'HCLSoftware API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-03);
-    not the provider''s own document.'
-  humanURL: https://developer.ds.hcl-software.com/t/sametime-12-0-4-chat-stops-working-after-proxy-container-restart/172814
+- aid: hcl-software:hcl-software-stwebapi-api
+  name: HCLSoftware Stwebapi API
+  description: The Stwebapi API from HCLSoftware — 1 operation(s) for stwebapi.
+  humanURL: >-
+    https://developer.ds.hcl-software.com/t/sametime-12-0-4-chat-stops-working-after-proxy-container-restart/172814
+  tags:
+  - Stwebapi
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/hcl-software-openapi-generated.yml
-    x-provenance: generated
-
+    url: openapi/hcl-software-stwebapi-api-openapi.yml
 x-coverage:
   state: unreadable
   reason: no-machine-readable-spec
