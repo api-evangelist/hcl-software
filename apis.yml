@@ -35,6 +35,10 @@ maintainers:
   email: info@apis.io
 
 common:
+- type: Pricing
+  url: https://www.hcl-software.com/devops-plan
+- type: Plans
+  url: plans/hcl-software-plans-pricing.yml
 - type: Spectral
   url: rules/hcl-software-rules.yml
 - type: Conformance
