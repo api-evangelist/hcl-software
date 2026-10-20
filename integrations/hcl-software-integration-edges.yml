@@ -6,6 +6,23 @@ checked:
 - https://plugins.jetbrains.com/
 marketplace_apps: []
 edges:
+- partner_name: JetBrains Marketplace
+  partner: jetbrains
+  partner_match: aggregator
+  type: marketplace
+  marketplace: jetbrains
+  channel: partner-built
+  relationship: platform-app
+  direction: third-party
+  evidence: https://plugins.jetbrains.com/vendor/HCL
+  listing_count: 1
+  apps:
+  - HCL AppScan
+  publisher_name: HCL Software
+  badges:
+  - Verified vendor
+  detected_by: sweep-devtools.py
+  detected: '2026-10-14'
 - partner_name: AWS Marketplace
   partner: amazon-web-services
   partner_match: aggregator
@@ -21,7 +38,7 @@ edges:
   - HCL Volt MX
   - HCL Commerce Cloud (Private Offer Only)
   - HCL Discover - Digital Experience Analytics Platform (SaaS)
-  - HCL BigFix Enterprise - Private Offer Only
+  - HCL Unica+ (Private Offer Only)
   seller_name: HCL Software
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
@@ -44,22 +61,5 @@ edges:
   seller_name: HCL Software
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
-- partner_name: JetBrains Marketplace
-  partner: jetbrains
-  partner_match: aggregator
-  type: marketplace
-  marketplace: jetbrains
-  channel: partner-built
-  relationship: platform-app
-  direction: third-party
-  evidence: https://plugins.jetbrains.com/vendor/HCL
-  listing_count: 1
-  apps:
-  - HCL AppScan
-  publisher_name: HCL Software
-  badges:
-  - Verified vendor
-  detected_by: sweep-devtools.py
-  detected: '2026-10-14'
 source:
 - https://plugins.jetbrains.com/
