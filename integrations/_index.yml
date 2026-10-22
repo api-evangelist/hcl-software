@@ -39,3 +39,40 @@
   relationship: distribution-channel
   status: not-a-workflow
   arazzo: null
+- slug: hcl-software-cve-program-cve-numbering-authorities
+  label: CVE Program (CVE Numbering Authorities)
+  partner_name: CVE Program (CVE Numbering Authorities)
+  category: Vulnerability disclosure (CVE Numbering Authority)
+  type: register
+  channel: standard-directory
+  evidence: https://www.cve.org/PartnerInformation/ListofPartners/partner/HCL
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: CVE Program CNA list (github.com/CVEProject/cve-website CNAsList.json @ 239d3d9b68e0)
+    standard: CVE Program CNA Operational Rules (CVE Numbering Authority)
+    spec_file: null
+    role: cve-numbering-authority
+    registered_name: HCL Software
+    matched_domain: hcl-software.com
+    matched_by: domain
+    cna_id: CNA-2019-0010
+    cna_short_name: HCL
+    cna_types:
+    - Vendor
+    cna_roles:
+    - CNA
+    scope: All HCL products only.
+    top_level_root: MITRE Corporation
+    root: n/a
+    security_advisories:
+    - https://support.hcl-software.com/community?id=community_forum&amp;sys_id=038a2b921b7bb34c77761fc58d4bcb0d
+    disclosure_policy:
+    - https://www.hcl-software.com/resources/psirt
+    country: India
+    signal_note: listing as a CVE Numbering Authority = participation (a public commitment to assign CVE IDs and
+      publish advisories for its scope); never a count of CVEs
+    detected_by: sweep-vulnerability-disclosure-cna.py
+    detected: '2026-10-22'
+  status: not-a-workflow
+  arazzo: null
