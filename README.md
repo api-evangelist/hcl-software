@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HCLSoftware is a company surfaced via the API Evangelist harvest backlog (source: gartner-mq) and added to the network as a stub for full-pipeline profiling.
-- https://www.hcl-software.com
+HCLSoftware, part of HCLTech, delivers a broad portfolio of enterprise software solutions spanning AI-driven operations, cybersecurity, data analytics, and low-code development platforms. The company focuses on orchestrating experiences, data, and operations at scale for large organizations, offering products such as HCL BigFix, HCL Cloud, and HCL Volt MX. Through its extensive suite, HCLSoftware enables digital transformation, secure endpoint management, and intelligent automation across industries.
+
+**Areas:** Company · Software · Enterprise · Artificial Intelligence · Cloud
+
+## HCLSoftware on APIs.io
+
+Everything profiled for HCLSoftware is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hcl-software/](https://apis.io/providers/hcl-software/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HCLSoftware Stwebapi API](https://apis.io/apis/hcl-software/hcl-software-stwebapi-api/) — The Stwebapi API from HCLSoftware — 1 operation(s) for stwebapi.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HCLSoftware API Rules](https://apis.io/rules/hcl-software/hcl-software-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hcl Software Domain Security](https://apis.io/security/hcl-software/hcl-software-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hcl Software Plans Pricing](https://apis.io/plans/hcl-software/hcl-software-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hcl-software.com)
+- [Documentation](https://www.hcl-software.com/developers)
+- [Pricing](https://www.hcl-software.com/devops-plan)
+- [Support](https://www.hcl-software.com/resources/trust-center)
+- [Blog](https://www.hcl-software.com/blog)
+- [Terms of service](https://www.hcl-software.com/legal/terms-use)
+- [Privacy policy](https://www.hcl-software.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 24.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 9.4 |
+| Contract governance | 31.8 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 31.6 |
+
+**Agent readiness 23.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hcl-software/](https://apis.io/providers/hcl-software/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HCLSoftware: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hcl-software/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
